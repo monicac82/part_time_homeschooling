@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+/* * {
+    border: 1px solid red;
+} */
+
+.body{
+    background-color:#3a414e;
+   
+}
+
+
+.jumbotron {
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1613589092961-e917075faa73?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+}
+
+.jumbotron-header{
+    background-color: rgba(160, 160, 160, .5);
+}
+
+.navbar{
+    background:#262626;
+    color:#627482;
+}
+
+.img-thumbnail{
+    
+    width: 100%;
+}
+
+.img-box{
+    width:100%;
+   
+}
+
+ .video {
+     height: 400px;
+     width: 400px;
+ }
+
+
+
+ 
+
+
+ .container-footer{
+     overflow: hidden;
+     margin-top: 250px;
+     background: #262626;
+     color: #627482 !important;
+     margin-bottom: 0;
+     padding-bottom: 0
+ }
+
+
+ small {
+     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .bold-text {
+     color: #989c9e !important
+ }
+
+ .mt-55 {
+     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ h3 {
+     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .social {
+     font-size: 21px !important
+ }
+
+
+
+
+ 
